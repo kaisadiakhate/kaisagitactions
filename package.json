@@ -1,5 +1,5 @@
 {
-  "name": "next-uk-post-codes",
+  "name": "kaisagitactions",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,8 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
-    "next": "^9.3.6",
+    "axios": "^1.1.3",
+    "next": "^13.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
