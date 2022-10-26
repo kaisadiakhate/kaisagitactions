@@ -12,6 +12,7 @@ COPY . .
 
 # Building app
 RUN npm run build
+EXPOSE 80
 
 # Running the app
 CMD [ "npm", "start" ]
